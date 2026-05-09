@@ -1,5 +1,7 @@
 # Pixels to Predictions — Reproduction Guide
 
+all adapters- https://drive.google.com/drive/folders/1ievuBdXvOD0nHxe9hnSw3VYRtXKQm0US?usp=sharing
+
 Fine-tuning [HuggingFaceTB/SmolVLM-500M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct)
 on multimodal science multiple-choice QA, achieving **0.93360** on the public leaderboard
 via a weighted ensemble of 27 checkpoints across six training phases.
